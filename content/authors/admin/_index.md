@@ -14,15 +14,16 @@ organizations:
     url: https://www.cuhk.edu.hk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Fixed income, return predictability, financial intermediation, ESG investing and textual analysis.
+bio: My research interests include fixed income, return predictability, financial intermediaries, ESG investing and textual analysis.
 
 # Interests to show in About widget
 interests:
-  - Fixed income
-  - return predictability
-  - financial intermediation
   - ESG investing
-  - textual analysis
+  - Financial intermediaries
+  - Fixed income
+  - Return predictability
+  - Textual analysis
+  
 
 # Education to show in About widget
 education:
