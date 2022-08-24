@@ -11,7 +11,7 @@ role: Finance PhD Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Chinese University of Hong Kong (CUHK) - Department of Finance
-    url: https://www.cuhk.edu.hk
+    url: https://www.bschool.cuhk.edu.hk/departments/finance/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fixed income, return predictability, financial intermediaries, ESG investing and textual analysis.
