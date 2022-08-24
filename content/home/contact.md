@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: lyzhou@link.cuhk.edu.hk
+  phone: (+852) 3943-7437
   address:
     street: 12 Horse Material Water
     city: Hong Kong
@@ -36,6 +37,7 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
+  directions: Cheng Yu Tung Building
 
 design:
   columns: '2'

@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 120
 
 title: Skills
 subtitle:
@@ -29,10 +29,10 @@ feature:
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"
+# - icon: ":smile:"
+#   icon_pack: "emoji"
+#   name: "Emojiness"
+#   description: "100%"
 
 # Uncomment to use custom SVG icons.
 # Place your custom SVG icon in `assets/media/icons/`.
