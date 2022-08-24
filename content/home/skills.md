@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Skills
+title: Other information
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: SAS, STATA, R, LaTeX
+    icon: uncharted
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Computer Skills
+  - description: CRSP, Compustat, TRACE, Mergent FISD, eMAXX, RavenPack, TAQ, Bloomberg, SEC Edgar, Seeking Alpha
+    icon: database
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Databases
+  - description: CFA Level II, FRM Level II
+    icon: certificate
     icon_pack: fas
-    name: Photography
+    name: Certificate
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #   icon_pack: "emoji"
