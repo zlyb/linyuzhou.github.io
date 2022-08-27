@@ -9157,7 +9157,7 @@ html[dir='rtl'] body {
 
 .avatar {
   width: 270px;
-  height: 405px;
+  height: 270px;
   margin: 0 auto;
   object-fit: cover; }
 
