@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-**[Porf.Hua ZHANG](https://www.bschool.cuhk.edu.hk/staff/zhang-hua/)** (PhD Supervisor) | **[Porf.Jie (Jay) CAO](https://sites.google.com/site/jiejaycao/)** (Co-Supervisor) | **[Porf.Tarun CHORDIA](https://goizueta.emory.edu/faculty/profiles/tarun-chordia)** (Emory University) | **[Porf.Xintong (Eunice) ZHAN](https://sites.google.com/view/xintongzhan)** (Fudan University School of Management)
+[Porf.Hua ZHANG](https://www.bschool.cuhk.edu.hk/staff/zhang-hua/) (PhD Supervisor) | [Porf.Jie (Jay) CAO](https://sites.google.com/site/jiejaycao/) (Co-Supervisor) | [Porf.Tarun CHORDIA](https://goizueta.emory.edu/faculty/profiles/tarun-chordia) (Emory University) | [Porf.Xintong (Eunice) ZHAN](https://sites.google.com/view/xintongzhan) (Fudan University School of Management)
