@@ -4,4 +4,4 @@ new_site(theme = "wowchemy/starter-academic")
 blogdown::serve_site()
 # Stop a local preview
 blogdown::stop_server()
-usethis::use_git(message = 'initial commit')
+usethis::use_git(message = 'update avatar to circle shape, set to default size')
