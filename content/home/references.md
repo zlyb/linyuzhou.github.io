@@ -11,4 +11,7 @@ design:
   columns: '2'
 ---
 
-[Porf.Hua ZHANG](https://www.bschool.cuhk.edu.hk/staff/zhang-hua/) (PhD Supervisor, Department of Finance, CUHK) | [Porf.Jie (Jay) CAO](https://sites.google.com/site/jiejaycao/) (Co-Supervisor, School of Accounting and Finance, PolyU) | [Porf.Tarun CHORDIA](https://goizueta.emory.edu/faculty/profiles/tarun-chordia) (Goizueta Business School, Emory University) | [Porf.Xintong (Eunice) ZHAN](https://sites.google.com/view/xintongzhan) (School of Management, Fudan University)
+[Porf.Hua ZHANG](https://www.bschool.cuhk.edu.hk/staff/zhang-hua/) (PhD Supervisor, Department of Finance, CUHK)  
+[Porf.Jie (Jay) CAO](https://sites.google.com/site/jiejaycao/) (Co-Supervisor, School of Accounting and Finance, PolyU)  
+[Porf.Tarun CHORDIA](https://goizueta.emory.edu/faculty/profiles/tarun-chordia) (Goizueta Business School, Emory University)  
+[Porf.Xintong (Eunice) ZHAN](https://sites.google.com/view/xintongzhan) (School of Management, Fudan University)
