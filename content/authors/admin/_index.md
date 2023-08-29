@@ -6,7 +6,7 @@ title: Linyu (Lucy) ZHOU
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role:  Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,11 +18,11 @@ bio: My research interests include fixed income, return predictability, financia
 
 # Interests to show in About widget
 interests:
-  - ESG investing
-  - Financial intermediaries
-  - Fixed income
-  - Return predictability
-  - Textual analysis
+  - fixed income
+  - return predictability
+  - financial intermediaries
+  - climate finance
+  - textual analysis
   
 
 # Education to show in About widget
@@ -31,7 +31,7 @@ education:
     - course: Ph.D. in Finance
       institution: The Chinese University of Hong Kong
       year: 2018 - 2023
-    - course: M.sc. in Probability and Mathematical Statistics
+    - course: M.Sc. in Probability and Mathematical Statistics
       institution: Nanjing University
       year: 2014 - 2017
     - course: B.Sc. in Statistics
@@ -46,9 +46,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   - icon: ssrn
     icon_pack: ai
     link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3117483
@@ -66,6 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). She obtained her bachelor's and master's degree in Mathematics from Nanjing University in 2014 and 2017, and subsequently earned her Ph.D. in Finance from the business school at The Chinese University of Hong Kong in 2023. Her research interests include fixed income, return predictability, financial intermediaries, Climate Finance, and textual analysis.
+Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). She obtained her bachelor's and master's degree in Mathematics from Nanjing University in 2014 and 2017, and subsequently earned her Ph.D. in Finance from The Chinese University of Hong Kong in 2023. Her research interests include fixed income, return predictability, financial intermediaries, climate finance, and textual analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
