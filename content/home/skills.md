@@ -20,7 +20,7 @@ feature:
     icon: uncharted
     icon_pack: fab
     name: Computer Skills
-  - description: CRSP, Compustat, TRACE, Mergent FISD, eMAXX, RavenPack, TAQ, Bloomberg, SEC Edgar, Seeking Alpha
+  - description: CRSP, Compustat, TRACE, Mergent FISD, eMAXX, NAIC, RavenPack, TAQ, Bloomberg, SEC Edgar, Seeking Alpha
     icon: database
     icon_pack: fas
     name: Databases

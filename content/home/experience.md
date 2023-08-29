@@ -35,7 +35,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Financial Management (Undergraduate), 2020 - 2022
+        * Financial Management (Undergraduate), 2020 - 2023
         * Empirical Asset Pricing (PhD), 2021
         * Current Topics in Finance (MBA), 2019 - 2020
         * Fundamentals of Business Finance (Undergraduate), 2018 - 2019
