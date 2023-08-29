@@ -66,6 +66,6 @@ email: ''
 highlight_name: true
 ---
 
-Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). Her research interests include fixed income, return predictability, financial intermediaries, ESG investing, and textual analysis.
+Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). She obtained her bachelor's and master's degree in Mathematics from Nanjing University in 2014 and 2017, and subsequently earned her Ph.D. in Finance from the business school at The Chinese University of Hong Kong in 2023. Her research interests include fixed income, return predictability, financial intermediaries, Climate Finance, and textual analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
