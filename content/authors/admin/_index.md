@@ -18,11 +18,11 @@ bio: My research interests include fixed income, return predictability, financia
 
 # Interests to show in About widget
 interests:
-  - fixed income
-  - return predictability
-  - financial intermediaries
-  - climate finance
-  - textual analysis
+  - Fixed income
+  - Return predictability
+  - Financial intermediaries
+  - Climate finance
+  - Textual analysis
   
 
 # Education to show in About widget

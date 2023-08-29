@@ -8,14 +8,14 @@ title: Presentation and discussion
 
 ## Selected Presentations (∗ by coauthor):
 
-- American Finance Association Annual Meeting*, 2024, Texas, US
-- The 10<sup>th</sup> SAFE Asset Pricing Workshop*, 2023, Frankfurt, Germany
-- FIRN Asset Management Meeting*, 2023, Brisbane, Australia
-- XJTLU AI and Big Data in Accounting and Finance, 2023, Suzhou, China 
-- China Fintech Research Conference, 2023, Chengdu, China 
-- FMA Annual Meeting (online), 2022, Atlanta, US 
+- American Finance Association Annual Meeting*, Texas, US, 2024
+- The 10<sup>th</sup> SAFE Asset Pricing Workshop*, Frankfurt, Germany, 2023
+- FIRN Asset Management Meeting*, Brisbane, Australia, 2023
+- XJTLU AI and Big Data in Accounting and Finance, Suzhou, China, 2023
+- China Fintech Research Conference, Chengdu, China, 2023
+- FMA Annual Meeting (online), Atlanta, US, 2022 
 - Mordant Risk Society (MRS) PhD Seminar (online), 2022
-- Midwest Finance Association Meetings (MFA)∗, 2022, Chicago, US
+- Midwest Finance Association Meetings (MFA)∗, Chicago, US, 2022
 - Financial Markets and Corporate Governance Conference (FMCG), Australia (online), 2022
 - The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, Xiamen, China (online), 2022
 - Shanghai-Edinburgh-London Green Finance Conference, Shanghai, China (online), 2022
@@ -32,15 +32,16 @@ title: Presentation and discussion
 
 ## Discussions:
 
-- "Mutual Fund Derivative Usage, Fire-sale Spillovers, and Corporate Bond Market Fragility", CFRI and CIRF Joint Conference, _by Quan Qi_
-- "Predicting Individual Corporate Bond Returns", XJTLU AI and Big Data in Accounting and Finance Conference, _by Xin He, Guanhao Feng, Junbo Wang, and Chunchi Wu_
-- "[A Structural Model of Liquidity in Over-the-Counter Markets](http://dx.doi.org/10.2139/ssrn.4130489)", Financial Markets and Corporate Governance Conference, _by Jamie Coen and Patrick Coen_
-- "[Instantaneous Volatility of the Yield Curve, Variance Risk Premium and Bond Return Predictability](https://scholarbank.nus.edu.sg/handle/10635/170804)", The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, _by Ximing Yin_
+- "Mutual Fund Derivative Usage, Fire-sale Spillovers, and Corporate Bond Market Fragility", CFRI and CIRF Joint Conference, _by Quan Qi_, 2023
+- "Predicting Individual Corporate Bond Returns", XJTLU AI and Big Data in Accounting and Finance Conference, _by Xin He, Guanhao Feng, Junbo Wang, and Chunchi Wu_, 2023
+- "The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds", FMA annual meeting, _by Jean Helwege, Amanda Liu, and Frank Packer_, 2022
+- "A Structural Model of Liquidity in Over-the-Counter Markets", Financial Markets and Corporate Governance Conference, _by Jamie Coen and Patrick Coen_, 2022
+- "Instantaneous Volatility of the Yield Curve, Variance Risk Premium and Bond Return Predictability", The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, _by Ximing Yin_, 2022
 - "Green Public Procurement and Corporate Environment and Policy: Spillover Effect", Shanghai-
-Edinburgh-London Green Finance Conference, _by Wendi Huang_
-- "[Tax Avoidance as An Unintended Consequence of Environmental Regulation: Evidence from the EU ETS](https://hdl.handle.net/2268/265716)", Finance and Accounting Annual Research Symposium, _by Vincent Compagnie, Kristof Struyfs, and Wouter Torsin_
-- "[Asset Growth Anomaly of Corporate Bonds: A Decomposition Analysis](http://dx.doi.org/10.2139/ssrn.3968682)", China International Risk Forum, _by Fang Chen, Yifei Li, Wenfeng Wu, and Tong Yu_
-- "[The Impact of the HYG ETF on the Liquidity of the Markets for the Underlying High-Yield Bonds](http://dx.doi.org/10.2139/ssrn.3950588)", FMA European Conference, _by John D. Finnerty and Natalia Reisel_
-- "[LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility during the COVID-19 Crisis](http://dx.doi.org/10.2139/ssrn.3817978)", The 34<sup>th</sup> Australasian Finance and Banking Conference, _by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala_
-- "Does a Financial Crisis Impair Corporate Innovation?", World Finance & Banking Symposium, _by Masami Imai and Michiru Sawada_
+Edinburgh-London Green Finance Conference, _by Wendi Huang_, 2022
+- "Tax Avoidance as An Unintended Consequence of Environmental Regulation: Evidence from the EU ETS", Finance and Accounting Annual Research Symposium, _by Vincent Compagnie, Kristof Struyfs, and Wouter Torsin_, 2022
+- "Asset Growth Anomaly of Corporate Bonds: A Decomposition Analysis", China International Risk Forum, _by Fang Chen, Yifei Li, Wenfeng Wu, and Tong Yu_, 2022
+- "The Impact of the HYG ETF on the Liquidity of the Markets for the Underlying High-Yield Bonds", FMA European Conference, _by John D. Finnerty and Natalia Reisel_, 2022
+- "LTCM Redux? Hedge Fund Treasury Trading and Funding Fragility during the COVID-19 Crisis", The 34<sup>th</sup> Australasian Finance and Banking Conference, _by Mathias S. Kruttli, Phillip J. Monin, Lubomir Petrasek, and Sumudu W. Watugala_, 2021
+- "Does a Financial Crisis Impair Corporate Innovation?", World Finance & Banking Symposium, _by Masami Imai and Michiru Sawada_, 2021
 
