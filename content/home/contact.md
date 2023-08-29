@@ -25,19 +25,17 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lyzhou@link.cuhk.edu.hk
-  phone: (+852) 3943-7437
+  email: linyu.zhou@polyu.edu.hk 
+  phone: (+852) 6879-3197
   address:
-    street: 12 Horse Material Water
-    city: Hong Kong
-    region: Shatin
-    postcode: '999077'
+    street: The Hong Kong Polytechnic University
+    region: Hung Hom, Kowloon
     country: China
     country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Cheng Yu Tung Building
+    latitude: '22.304187939267226'
+    longitude: '114.17970596706485'
+  directions: Li Ka Shing Tower
 
 design:
   columns: '2'

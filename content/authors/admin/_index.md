@@ -6,12 +6,12 @@ title: Linyu (Lucy) ZHOU
 superuser: true
 
 # Role/position/tagline
-role: Finance PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: The Chinese University of Hong Kong (CUHK) - Department of Finance
-    url: https://www.bschool.cuhk.edu.hk/departments/finance/
+  - name: The Hong Kong Polytechnic University (PolyU) - School of Accounting and Finance
+    url: https://www.polyu.edu.hk/af/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include fixed income, return predictability, financial intermediaries, ESG investing and textual analysis.
@@ -28,13 +28,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Finance
+    - course: Ph.D. in Finance
       institution: The Chinese University of Hong Kong
       year: 2018 - 2023
-    - course: Msc in Probability and Mathematical Statistics
+    - course: M.sc. in Probability and Mathematical Statistics
       institution: Nanjing University
       year: 2014 - 2017
-    - course: BSc in Statistics
+    - course: B.Sc. in Statistics
       institution: Nanjing University
       year: 2010 - 2014
 
@@ -68,6 +68,6 @@ email: ''
 highlight_name: true
 ---
 
-Linyu (Lucy) ZHOU (周霖煜) is a Ph.D. candidate in Finance at The Chinese University of Hong Kong. Her research interests include fixed income, return predictability, financial intermediaries, ESG investing and textual analysis. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). Her research interests include fixed income, return predictability, financial intermediaries, ESG investing, and textual analysis.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

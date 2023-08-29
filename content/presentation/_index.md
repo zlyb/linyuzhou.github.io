@@ -8,10 +8,16 @@ title: Presentation and discussion
 
 ## Selected Presentations (∗ by coauthor):
 
+- American Finance Association Annual Meeting*, 2024, Texas, US
+- The 10<sup>th</sup> SAFE Asset Pricing Workshop*, 2023, Frankfurt, Germany
+- FIRN Asset Management Meeting*, 2023, Brisbane, Australia
+- XJTLU AI and Big Data in Accounting and Finance, 2023, Suzhou, China 
+- China Fintech Research Conference, 2023, Chengdu, China 
+- FMA Annual Meeting (online), 2022, Atlanta, US 
+- Mordant Risk Society (MRS) PhD Seminar (online), 2022
 - Midwest Finance Association Meetings (MFA)∗, 2022, Chicago, US
 - Financial Markets and Corporate Governance Conference (FMCG), Australia (online), 2022
-- The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, Xiamen,
-China (online), 2022
+- The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, Xiamen, China (online), 2022
 - Shanghai-Edinburgh-London Green Finance Conference, Shanghai, China (online), 2022
 - Finance and Accounting Annual Research Symposium (FARS), UK (online), 2022
 - The 4<sup>th</sup> Israel Behavioral Finance Conference∗, Israel (online), 2022
@@ -26,6 +32,8 @@ China (online), 2022
 
 ## Discussions:
 
+- "Mutual Fund Derivative Usage, Fire-sale Spillovers, and Corporate Bond Market Fragility", CFRI and CIRF Joint Conference, _by Quan Qi_
+- "Predicting Individual Corporate Bond Returns", XJTLU AI and Big Data in Accounting and Finance Conference, _by Xin He, Guanhao Feng, Junbo Wang, and Chunchi Wu_
 - "[A Structural Model of Liquidity in Over-the-Counter Markets](http://dx.doi.org/10.2139/ssrn.4130489)", Financial Markets and Corporate Governance Conference, _by Jamie Coen and Patrick Coen_
 - "[Instantaneous Volatility of the Yield Curve, Variance Risk Premium and Bond Return Predictability](https://scholarbank.nus.edu.sg/handle/10635/170804)", The 4<sup>th</sup> Xiamen University Finance Engineering and Quantitative Finance Workshop, _by Ximing Yin_
 - "Green Public Procurement and Corporate Environment and Policy: Spillover Effect", Shanghai-

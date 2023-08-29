@@ -16,7 +16,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-07-01T00:00:00Z'
+date: '2021-07-08T00:00:00Z'
 doi: '10.2139/ssrn.3881497'
 
 # Schedule page publish date (NOT publication's date).
@@ -29,13 +29,14 @@ doi: '10.2139/ssrn.3881497'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: _SSRN_
-publication_short: Presented at *University of Sydney, CUHK, and Federal Reserve Board seminars (2021), The Seventh Annual Volatility Institute Conference at NYU Shanghai (2021), CSR, the Economy and Financial Markets (2021), CAFM (2021), MFA (2022), The Fourth Xiamen University Finance Finance Conference (2022), FARS (2022), The Fourth Israel Behavioral Finance Conference (2022), CIRF (2022), FMA Europe (2022)*
+publication: "Working Paper"
+# publication_short:
 
+# Abstract
 abstract: This paper investigates how firms' carbon emission levels affect the trading behavior of bond mutual funds. We find that mutual funds collectively sell corporate bonds issued by firms with high carbon emissions, driven by funds' concerns for carbon-related redemption risks and regulatory risks, rather than by a permanent shift in funds' investing preferences. Higher carbon exposures in mutual fund portfolios lead to more investor outflows, and bonds tend to experience more intensive selling if their holding mutual funds have higher flow-to-carbon sensitivity. Bonds issued by high carbon firms experience worse liquidity conditions, especially when concerns for carbon-related risks heighten.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: _Presented at CSR, the Economy and Financial Markets (2021), CAFM (2021), MFA (2022), FARS (2022), The 4th Israel Behavioral Finance Conference (2022), CIRF (2022), FMA Europe (2022), FIRN Asset Management Meeting (2023)_
 
 tags: [Carbon emissions, corporate bonds, mutual funds, collective selling, redemption risks, liquidity]
 

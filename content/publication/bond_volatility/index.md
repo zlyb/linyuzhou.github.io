@@ -14,7 +14,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-07-30T00:00:00Z'
+date: '2021-08-25T00:00:00Z'
 doi: '10.2139/ssrn.3896084'
 
 # Schedule page publish date (NOT publication's date).
@@ -27,13 +27,14 @@ doi: '10.2139/ssrn.3896084'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: _SSRN_
-publication_short: Presented at *CUHK and HKUST brownbag seminars, CAFM (2021), NZFM (2021), AFBC (2021), WFBS (2021), FMCG (2022), The Fourth Xiamen University Finance Engineering and Quantitative Finance Workshop (2022), CIRF (2022), FMA (2022, scheduled)*
+publication: "Working Paper"
+# publication_short: 
 
+# Abstract
 abstract: This paper documents a positive cross-sectional relation between returns and lagged idiosyncratic volatility (IVOL) in the corporate bond market. The relation obtains following periods of low funding liquidity due to a funding liquidity driven decrease in contemporaneous returns followed by a return reversal in the high IVOL bonds. Three exogenous shocks, (i) the Volcker Rule which restricted the participation of dealers in the corporate bond market in 2014, (ii) the Global Financial Crisis of 2008, and (iii) the COVID-19 crisis of 2020, are used to establish the causality between funding liquidity and the positive cross-sectional IVOL-return relation.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: _Presented at CAFM (2021), NZFM (2021), AFBC (2021), WFBS (2021), FMCG (2022), CIRF (2022), FMA (2022), SAFE Asset Pricing Workshop (2023, scheduled)_
 
 tags: [Corporate bonds, idiosyncratic volatility, financial intermediaries, Volcker Rule, COVID-19]
 
