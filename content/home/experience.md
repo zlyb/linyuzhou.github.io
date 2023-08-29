@@ -33,7 +33,7 @@ experience:
     date_start: '2018-08-01'
     date_end: '2023-06-01'
     description: |2-
-        Responsibilities include:
+        Courses include:
         
         * Financial Management (Undergraduate), 2020 - 2023
         * Empirical Asset Pricing (PhD), 2021
