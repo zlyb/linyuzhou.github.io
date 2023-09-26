@@ -36,7 +36,7 @@ publication: "Working Paper"
 abstract: We find that insurance companies decrease their holdings of a bond if the tone of the bond issuer’s earnings conference call is more negative. The net negative tone of conference calls significantly predicts the issuer’s default risk, which is a central concern for insurance companies. By creating a novel default-related dictionary, we further confirm that insurance companies react to the tone related to default information in conference calls. Bonds issued by firms with more negative conference calls and largely held by insurance companies experience lower returns after the calls. The aggregate selling of insurance companies triggered by negative conference calls would spill over to private industry peers and lead to liquidity risk in the underlying corporate bond market.
 
 # Summary. An optional shortened abstract.
-summary: _Presented at CFRI & CIRF (2023), XJTLU AI and Big Data in Accounting and Finance (2023), CFAM (2023, scheduled), AFA (2024, scheduled)_
+summary: _CFRI & CIRF (2023), XJTLU AI and Big Data in Accounting and Finance (2023), MIT Asia Accounting Conference (2023), CFAM (2023, scheduled), AFA (2024, scheduled)_
 
 tags: [Corporate bonds, insurance companies, earnings conference calls, linguistic tone, default risks]
 

@@ -22,6 +22,7 @@ interests:
   - Financial institutions
   - Climate finance
   - Textual analysis
+  - Investments
   
 
 # Education to show in About widget

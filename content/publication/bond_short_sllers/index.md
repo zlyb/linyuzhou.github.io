@@ -32,7 +32,7 @@ publication: "Working Paper"
 abstract: This paper examines how short sellers make use of the textual information in firms’ earnings conference calls in trading corporate bonds. I find that short-sale activities increase for corporate bonds issued by firms with more negative earnings conference calls. The relation is not driven by looser short-sale constraints, nor the spillover from equity short-sale activities. Bond short sellers are skilled at processing soft information in earnings conference calls, especially the default-related information. Bonds of firms with more negative conference calls are more likely to be downgraded and default, and have lower returns in the future. Besides, the impact of the conference call tone spills over to the shorting volumes of bonds issued by private industry peers.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: _Job Market Paper_
 
 # tags: []
 

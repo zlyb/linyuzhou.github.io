@@ -36,7 +36,8 @@ title: Presentation and discussion
 
 ## Discussions:
 
-- "Mutual Fund Derivative Usage, Fire-sale Spillovers, and Corporate Bond Market Fragility", CFRI and CIRF Joint Conference, _by Quan Qi_, 2023
+- "Mutual Fund Derivative Usage, Fire-sale Spillovers, and Corporate Bond Market Fragility", China
+Finance Review International (CFRI) and CIRF Joint Conference, _by Quan Qi_, 2023
 - "Predicting Individual Corporate Bond Returns", XJTLU AI and Big Data in Accounting and Finance Conference, _by Xin He, Guanhao Feng, Junbo Wang, and Chunchi Wu_, 2023
 - "The Impact of Introducing a (Nearly) Redundant Security: Evidence from Malaysian Corporate Bonds", FMA annual meeting, _by Jean Helwege, Amanda Liu, and Frank Packer_, 2022
 - "A Structural Model of Liquidity in Over-the-Counter Markets", Financial Markets and Corporate Governance Conference, _by Jamie Coen and Patrick Coen_, 2022
