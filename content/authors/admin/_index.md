@@ -14,13 +14,12 @@ organizations:
     url: https://www.polyu.edu.hk/af/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include fixed income, return predictability, financial intermediaries, ESG investing and textual analysis.
+bio: My research interests include fixed income securities, financial institutions, climate finance, and textual analysis.
 
 # Interests to show in About widget
 interests:
-  - Fixed income
-  - Return predictability
-  - Financial intermediaries
+  - Fixed income securities
+  - Financial institutions
   - Climate finance
   - Textual analysis
   
@@ -66,6 +65,6 @@ email: ''
 highlight_name: true
 ---
 
-Linyu (Lucy) ZHOU (周霖煜) is working as a post-doctoral at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). She obtained her bachelor's and master's degree in Mathematics from Nanjing University in 2014 and 2017, and subsequently earned her Ph.D. in Finance from The Chinese University of Hong Kong in 2023. Her research interests include fixed income, return predictability, financial intermediaries, climate finance, and textual analysis.
+Linyu (Lucy) ZHOU (周霖煜) is working as a Postdoctoral Fellow at the School of Accounting and Finance, Hong Kong Polytechnic University (PolyU). She obtained her bachelor's and master's degree in Mathematics from Nanjing University in 2014 and 2017, and subsequently earned her Ph.D. in Finance from The Chinese University of Hong Kong in 2023. Her research interests include fixed income securities, financial institutions, climate finance, and textual analysis.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

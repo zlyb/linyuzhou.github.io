@@ -9,10 +9,14 @@ title: Presentation and discussion
 ## Selected Presentations (∗ by coauthor):
 
 - American Finance Association Annual Meeting*, Texas, US, 2024
+- The 20<sup>th</sup> Chinese Finance Annual Meeting*, Beijing, China, 2023
 - The 10<sup>th</sup> SAFE Asset Pricing Workshop*, Frankfurt, Germany, 2023
 - FIRN Asset Management Meeting*, Brisbane, Australia, 2023
 - XJTLU AI and Big Data in Accounting and Finance, Suzhou, China, 2023
 - China Fintech Research Conference, Chengdu, China, 2023
+- The 2<sup>nd</sup> Workshop on Theory and Application of Big Data Econometrics, Changsha, China, 2023
+- Big Data and Statistical Science Interdisciplinary Academic Forum, Shenzhen, China, 2023
+- The 1<sup>st</sup> Academic Conference on Financial Technology and Big Data, Guilin, China, 2023
 - FMA Annual Meeting (online), Atlanta, US, 2022 
 - Mordant Risk Society (MRS) PhD Seminar (online), 2022
 - Midwest Finance Association Meetings (MFA)∗, Chicago, US, 2022
