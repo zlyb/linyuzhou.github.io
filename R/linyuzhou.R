@@ -4,4 +4,4 @@ new_site(theme = "wowchemy/starter-academic")
 blogdown::serve_site()
 # Stop a local preview
 blogdown::stop_server()
-usethis::use_git(message = 'update after rnr')
+usethis::use_git(message = 'update references & resume.pdf')
